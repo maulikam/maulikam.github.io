@@ -13,7 +13,7 @@ PUBLISHER = "Maulik Dave"
 EMAIL = "btwynus@gmail.com"
 UPDATED = "20 November 2026"
 # One line per AdMob account, from AdMob > Apps > app-ads.txt. Empty until the account exists.
-APP_ADS_LINES = []
+APP_ADS_LINES = ["google.com, pub-4615508881117822, DIRECT, f08c47fec0942fa0"]
 
 GAMES = {
     "plot-knots": {
